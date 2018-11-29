@@ -5,4 +5,4 @@ It generates a sin root note and harmonics with different level gradients.
 You can also tweak the root note gain for residual effects, introduce deviation from the harmonic frequency multiples or add some white noise. You can listen to the corresponding audio and save to a wav file with a sample rate of 44100
 
 Inline-style: 
-![alt text](https://github.com/SimonZimmer/sin_overtone_synth/raw/master/src/images/sin_overtone_synth.gif "")
+![alt text](https://github.com/SimonZimmer/sin_overtone_synth/blob/master/sin_overtone_synth.gif "")
