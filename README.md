@@ -1,2 +1,8 @@
 # sin_overtone_synth
-sin_overtone_synth 1.0 This is a sin overtone synthesizer / visualizer which was developed as a part of a research project.  This is a sin overtone synthesizer / visualizer which was developed as a part of a research project. It generates a sin root note and harmonics with different level gradients. You can also tweak the root note gain for residual effects, introduce deviation from the harmonic frequency multiples or add some white noise. The files can be saved as a wav file with a sample rate of 44100  Simon Zimmermann simon.zimmermann@rocketmail.com
+
+This is a sin overtone synthesizer / visualizer which was developed as a part of a research project.
+It generates a sin root note and harmonics with different level gradients. 
+You can also tweak the root note gain for residual effects, introduce deviation from the harmonic frequency multiples or add some white noise. You can listen to the corresponding audio and save to a wav file with a sample rate of 44100
+
+Inline-style: 
+![alt text](https://github.com/SimonZimmer/sin_overtone_synth/raw/master/src/images/sin_overtone_synth.gif "")
