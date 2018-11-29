@@ -2,7 +2,6 @@
 
 This is a sin overtone synthesizer / visualizer which was developed as a part of a student research project.
 
-Inline-style: 
 ![alt text](https://github.com/SimonZimmer/sin_overtone_synth/blob/master/sin_overtone_synth.gif "")
 
 It generates a sin root note and harmonics with different level gradients. 
